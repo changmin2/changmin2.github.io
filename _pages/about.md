@@ -2,8 +2,6 @@
 title: "이 블로그 설명서"
 permalink: /about/
 layout: single
-sidebar:
-    nav: "sidebar"
 ---
 
 ## changmin2.github.io 블로그
