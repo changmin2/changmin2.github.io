@@ -6,4 +6,5 @@ main:
     url: /about/
   - title: "Categories"
     url: /categories/
-      
+  - title: "토이프로젝트"
+    url: /projects/
