@@ -2,9 +2,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Post"
-    url: /year_archive/
   - title: "Categories"
     url: /categories/
+  - title: "Post"
+    url: /year_archive/
   - title: "토이프로젝트"
     url: /projects/
